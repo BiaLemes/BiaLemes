@@ -6,3 +6,4 @@ Eu sou a Bia, araraquarense, pedagoga e gestora de recursos humanos em formaçã
 - 💟 Tech Recruiter da equipe Reponto
 - 🔍 Estou aqui procurando talentos para atuar em diversos segmentos de tecnologia, produtos e dados.
 
+Se quiser trocar uma ideia, me chama no LinkedIn https://www.linkedin.com/in/beatriz-erba-lemes/ , lá eu também posto sempre vagas novas.☺
