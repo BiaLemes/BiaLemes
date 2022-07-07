@@ -13,4 +13,5 @@ Se quiser trocar uma ideia, me chama no [LinkedIn](https://www.linkedin.com/in/b
  
 <div> 
 
-  <a href = "mailto:biaferreiraerba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:biaferreiraerba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:beatriz@reponto.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=blue" target="_blank"></a>
